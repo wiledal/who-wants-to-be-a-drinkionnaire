@@ -1,0 +1,575 @@
+{
+  questions: [
+    // FIRST QUESTION IS ALWAYS THE CORRECT ANSWER
+    // The answers are presented in random order during play
+    {
+      q: "What is the circumference of Earth?"
+      a: [
+        "40,075 km"
+        "10,075 km"
+        "100,075 km"
+        "70,075 km"
+      ]
+    }
+
+    {
+      q: "How tall is the eiffel tower?"
+      a: [
+        "300m"
+        "350m"
+        "400m"
+        "450m"
+      ]
+    }
+
+    {
+      q: "Do you want to be a drinkionnaire?"
+      a: [
+        "Yes"
+        "No"
+        "No"
+        "No"
+      ]
+    }
+
+    {
+      q: "OMFG JUICE?!"
+      a: [
+        "YAAAS JUUIIICEEE!!!"
+        "no thenks"
+        "no"
+        "no pls"
+      ]
+    }
+
+    {
+      q: "What is ten times ten?"
+      a: [
+        "A HUNDRED"
+        "A THOUSAND"
+        "A MILLION"
+        "omg so easy math"
+      ]
+    }
+
+    {
+      q: "How much rice can you fit in a swimming pool?"
+      a: [
+        "A FUCKING FUCKTON."
+        "One. One rice."
+        "I dunno like 300?"
+        "One thousand!"
+      ]
+    }
+
+    {
+      q: "Which of the following is regularly associated with Amsterdam?"
+      a: [
+        "XXX"
+        "8===D"
+        "VVV"
+        "YYY"
+      ]
+    }
+
+    {
+      q: "🎵 Wake me up when ____ ends 🎵"
+      a: [
+        "September"
+        "October"
+        "November"
+        "Game of Thrones"
+      ]
+    }
+
+    {
+      q: "Does the pope have a funny hat?"
+      a: [
+        "Yes."
+        "No"
+        "Nah"
+        "Nee"
+      ]
+    }
+
+    {
+      q: "Harry Potter has a ____ in his forhead."
+      a: [
+        "Scar"
+        "Tiny Mona Lisa"
+        "Forehead"
+        "Guilty onion"
+      ]
+    }
+
+    {
+      q: "A dog is a ____"
+      a: [
+        "Hairy companion"
+        "Spooky ghost"
+        "Bag of tea"
+        "Type of grass"
+      ]
+    }
+
+    {
+      q: "🎵 I believe I can ____ 🎵"
+      a: [
+        "Fly"
+        "Die"
+        "Cry"
+        "Pee on teens"
+      ]
+    }
+
+    {
+      q: "What is Tinder?"
+      a: [
+        "A dating app"
+        "An app used when camping"
+        "A service for ordering firewood"
+        "A cold man's last word as he slips into darkness"
+      ]
+    }
+
+    {
+      q: "How many mosquitos do you usually want in your bedroom at 03:21?"
+      a: [
+        "NOT A SINGLE FUCKING ONE. BLOOD ON THE WALLS."
+        "3"
+        "4"
+        "7"
+      ]
+    }
+    {
+      q: "A lasagna is what kind of food?"
+      a: [
+        "Flat layered pasta cake"
+        "I have one every morning to work on my abs"
+        "A mexican telenovela"
+        "Fruit. Grows on trees."
+      ]
+    }
+
+    {
+      q: "How many legs does an average spider have?"
+      a: [
+        "8"
+        "6"
+        "10"
+        "9½"
+      ]
+    }
+
+    {
+      q: "🍑 ➕ ❓"
+      a: [
+        "🍆"
+        "🍕"
+        "🧀"
+        "🍣"
+      ]
+    }
+
+    {
+      q: "🎵 Never gonna give you ____ 🎵"
+      a: [
+        "Up"
+        "Your money"
+        "Potato"
+        "This"
+      ]
+    }
+
+    {
+      q: "To perform magic in Harry Potter, wisards must have"
+      a: [
+        "A wand"
+        "Belief in our Lord Savior Satan"
+        "Tobacco"
+        "Anxiety"
+      ]
+    }
+
+    {
+      q: "Snails are cool because"
+      a: [
+        "They sliiiiide 🐌"
+        "They eat a lot of salt"
+        "They enjoy the occasional G&T"
+        "When confronted they emit a noxious gas"
+      ]
+    }
+
+    {
+      q: "'Hakuna matata' means..."
+      a: [
+        "No worries"
+        "Where the fuck is my money"
+        "Where the fuck is my life headed"
+        "Where the fuck is the vodka"
+      ]
+    }
+
+    {
+      q: "Aladdin is a story about..."
+      a: [
+        "A poor orphan trying to get laid with a princess"
+        "A lost fish named Nemo lost"
+        "A troll in a swamp with a donkey friend"
+        "Nicholas cage getting bees in his face"
+      ]
+    }
+
+    {
+      q: "Bananas are..."
+      a: [
+        "Bent yellow squishpackets"
+        "Things you wear on your head to show gang loyalty"
+        "The moments just before a sneeze"
+        "T. Just the letter T."
+      ]
+    }
+
+    {
+      q: "A Gin & Tonic tastes like..."
+      a: [
+        "Bittersweet dreams of wonder"
+        "Salty kisses from an angry horse"
+        "Sour grapes in your breakfast cereal"
+        "Ashtray"
+      ]
+    }
+
+    {
+      q: "'Salty Dick' is a beer from this Amsterdam based brewery"
+      a: [
+        "Oedipus"
+        "Brouwerij 't IJ"
+        "Butcher's Tears"
+        "Two Chefs Brewing"
+      ]
+    }
+
+    {
+      q: "'Funky Falcon' is a beer from this Amsterdam based brewery"
+      a: [
+        "Two Chefs Brewing"
+        "Oedipus"
+        "Brouwerij 't IJ"
+        "Butcher's Tears"
+      ]
+    }
+
+    {
+      q: "'Zatte' is a beer from this Amsterdam based brewery"
+      a: [
+        "Brouwerij 't IJ"
+        "Two Chefs Brewing"
+        "Oedipus"
+        "Butcher's Tears"
+      ]
+    }
+
+    {
+      q: "'Green Cap' is a beer from this Amsterdam based brewery"
+      a: [
+        "Butcher's Tears"
+        "Brouwerij 't IJ"
+        "Two Chefs Brewing"
+        "Oedipus"
+      ]
+    }
+
+    {
+      q: "British tourists originate from what place?"
+      a: [
+        "United Kingdom"
+        "Great Brittany"
+        "Ladland"
+        "Hell"
+      ]
+    }
+
+    {
+      q: "Blue-footed boobies are..."
+      a: [
+        "A type of bird"
+        "A chest covered in tattoos of blue feet or something"
+        "A popular dance move"
+        "NSFW"
+      ]
+    }
+
+    {
+      q: "100 kilometres are how many Scandinavian miles?"
+      a: [
+        "10 Scandinavian mile"
+        "0.1 Scandinavian mile"
+        "1 Scandinavian miles"
+        "17.8 Scandinavian miles"
+      ]
+    }
+
+    {
+      q: "1000 meters are how many kilometres?"
+      a: [
+        "1 km"
+        "10 km"
+        "100 km"
+        "0.1 km"
+      ]
+    }
+
+    {
+      q: "How do you eat a bitterball?"
+      a: [
+        "Dip it in mustard and take a careful bite so you don't burn"
+        "Eat it whole, it's not like it's hot or anything"
+        "Mash it in your hands and apply french dressing"
+        "什么是肉饼?"
+      ]
+    }
+
+    {
+      q: "The GameCube was a popular game console from which company?"
+      a: [
+        "Nintendo"
+        "Sony"
+        "Microsoft"
+        "Panasonic"
+      ]
+    }
+
+    {
+      q: "Nicholas Cage is..."
+      a: [
+        "An american actor"
+        "A duck famous for it's ability to sound just like a cow"
+        "A cage named Nicholas"
+        "A post-modern emo band"
+      ]
+    }
+
+    {
+      q: "NASA sends people to..."
+      a: [
+        "Space"
+        "The depths of the ocean"
+        "Germany"
+        "A hole in the desert that smells like ice cream"
+      ]
+    }
+
+    {
+      q: "Google Chrome is a..."
+      a: [
+        "Web browser"
+        "Sexually transmitted disease"
+        "Wheel cover"
+        "Pokémon"
+      ]
+    }
+
+    {
+      q: "'Sinasappel' in Dutch means..."
+      a: [
+        "Orange"
+        "Sinus-apple, an apple in your sinuses"
+        "Pinecone"
+        "It's just one of those dank Dutch memes"
+      ]
+    }
+
+    {
+      q: "Snailpolish is..."
+      a: [
+        "Nailpolish but for snaaaails?"
+        "Tooooothpaaaaste?"
+        "A brand of caaaake?"
+        "An exercise routiiiiine?"
+      ]
+    }
+
+    {
+      q: "The Swedish flag is..."
+      a: [
+        "Yellow and Blue"
+        "Red and Green"
+        "Fellow and Grue"
+        "Sled Cantine"
+      ]
+    }
+
+    {
+      q: "An apple a day"
+      a: [
+        "Keeps the doctor away"
+        "Is a must for a true fan of technology"
+        "Makes all boys go 'Hey!'"
+        "Fits well on my tray"
+      ]
+    }
+
+    {
+      q: "Snape"
+      a: [
+        "The potion's master"
+        "The lotion's caster"
+        "The notion's raster"
+        "The motion's blaster"
+      ]
+    }
+
+    {
+      q: "No Man's Sky is a game about..."
+      a: [
+        "Exploring a universe"
+        "Purchasing the rights to all flight plans"
+        "Destroying the dreams of a teenage boy"
+        "Snakes"
+      ]
+    }
+
+    {
+      q: "________________ GAGA"
+      a: [
+        "YAAAAAAAAAAAAAAS"
+        "WHAAAAAAAAAAAAAT"
+        "STOOOOOOOOOOOOOP"
+        "NAAAAAAAAAAAAAAH"
+      ]
+    }
+
+    {
+      q: "Gin + Campari + Vermouth"
+      a: [
+        "The bold Negroni"
+        "The mad Dark and Stormy"
+        "The greedy Old Fashioned"
+        "The classic Whiskey Sour"
+      ]
+    }
+
+    {
+      q: "With great power comes"
+      a: [
+        "Great responsibility"
+        "Fate tranquility"
+        "Late hand-ability"
+        "Germany"
+      ]
+    }
+
+    {
+      q: "Spider-man undercover"
+      a: [
+        "Peter Parker"
+        "Peter Park here"
+        "Peter why did you park there"
+        "Peter park where?"
+      ]
+    }
+
+    {
+      q: "Snus is..."
+      a: [
+        "Swedish Chewing Tobacco"
+        "Swedish boardgame"
+        "Swedish delicacy"
+        "Swedish police"
+      ]
+    }
+
+    {
+      q: "YOU SHALL NOT ______!!"
+      a: [
+        "PASS"
+        "RUN"
+        "CAT"
+        "FALL"
+      ]
+    }
+
+    {
+      q: "Liar liar, pants on ____"
+      a: [
+        "Fire"
+        "The floor"
+        "Grass"
+        "Acid"
+      ]
+    }
+
+    {
+      q: "Lemon is..."
+      a: [
+        "Sour"
+        "Sweet"
+        "Salty"
+        "Creamy"
+      ]
+    }
+
+    {
+      q: "Some men just want to watch the world ____"
+      a: [
+        "Burn"
+        "Turn"
+        "Kern"
+        "Learn"
+      ]
+    }
+
+    {
+      q: "Omg it's so big."
+      a: [
+        "That's what she said"
+        "That's what bee fled"
+        "That's what knee sled"
+        "That's what cree wed"
+      ]
+    }
+
+    {
+      q: "Katniss is a totally normal name in"
+      a: [
+        "The Hunger Games"
+        "The Game of Thrones"
+        "The Hungry Throne Games"
+        "The Game of the Thrones that are Hungry"
+      ]
+    }
+
+    {
+      q: "Snickers tastes surprisingly good with"
+      a: [
+        "Milk"
+        "Silk
+        "Dill"
+        "Filth"
+      ]
+    }
+
+    {
+      q: "Boo!"
+      a: [
+        "Ah! A Ghost!"
+        "Ah! Great toast!"
+        "Ah! What boast!"
+        "Ah! Such roast!"
+      ]
+    }
+
+    {
+      q: "What did big tomato say to the little tomato?"
+      a: [
+        "Ketchup!"
+        "You mad bro?"
+        "Chill, yo"
+        "..."
+      ]
+    }
+
+  ]
+}

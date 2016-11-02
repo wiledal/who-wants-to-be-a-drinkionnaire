@@ -1,0 +1,11 @@
+{
+  "name": "Who Wants to be a Drinkionnaire?",
+  "short_name": "Drinkionnaire",
+  "display": "fullscreen",
+  "icons": [
+    {
+      "src": "drinkionnaire-icon.jpg",
+      "sizes": "512x512"
+    }
+  ]
+}
